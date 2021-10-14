@@ -1,0 +1,34 @@
+
+<?xml version="1.0" encoding="UTF-8"?> 
+<library>
+	<technical_books>
+		<book1>
+			<ISBN>.........</ISBN>
+			<title>........</title>
+			<author>.......</author>		
+		</book1>
+		<book2>
+			<ISBN>.........</ISBN>
+			<title>........</title>
+			<author>.......</author>		
+		</book2>	
+	</technical_books>
+	<cookery_books>
+		<book1>
+			<ISBN>.........</ISBN>
+			<title>........</title>
+			<author>.......</author>		
+		</book1>
+		<book2>
+			<ISBN>.........</ISBN>
+			<title>........</title>
+			<author>.......</author>		
+		</book2>	
+	</cookery_books>
+</library>
+
+
+
+
+
+
